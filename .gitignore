@@ -1,0 +1,7 @@
+node_modules/
+screenshots/
+.auth/
+
+# Personal data - each user creates their own (see README)
+.env
+src/data.ts
